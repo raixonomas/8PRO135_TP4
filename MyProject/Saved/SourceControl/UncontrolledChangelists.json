@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Raphael/Documents/GitHub/8PRO135_TP4/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/Raphael/Documents/GitHub/8PRO135_TP4/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Raphael/Documents/GitHub/8PRO135_TP4/MyProject/Content/Levels/LVL.umap",
+				"C:/Users/Raphael/Documents/GitHub/8PRO135_TP4/MyProject/Content/Levels/LVL_Intro.umap",
+				"C:/Users/Raphael/Documents/GitHub/8PRO135_TP4/MyProject/Content/UI/W_Intro.uasset",
+				"C:/Users/Raphael/Documents/GitHub/8PRO135_TP4/MyProject/Content/UI/Intro/Logo_Forever15_white.uasset",
+				"C:/Users/Raphael/Documents/GitHub/8PRO135_TP4/MyProject/Content/UI/Intro/W_Intro.uasset",
+				"C:/Users/Raphael/Documents/GitHub/8PRO135_TP4/MyProject/Content/Levels/LVL_MainMenu.umap"
 			]
 		}
 	]
